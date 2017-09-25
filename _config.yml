@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-
+theme: jekyll-theme-hydeout
 # Setup
 title:            Dead Serious
 tagline:          'ECE 3400 Group 3'
